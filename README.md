@@ -88,8 +88,7 @@ This assignment was the hardest cad assignment I've done, because we could only 
 ![5876967](https://github.com/kstanfo00/CAD/assets/112961430/80c9ce9a-6394-4fe6-83fa-53e278d364d0)
 
 ### Reflection
-This assignment was the hardest cad assignment I've done, because we could only work in one studio. This also made it hard to mate connect each part, as well as copy and transform each part. We also had to change the variables to create a new version of the parts. 
-
+This test was a reflection of the effort I put into this class. I didn't have enough experience with Onshape modeling, which led to me not passing. I also didn't pay enough attention during the CAD assignments, and if I payed more attention, I would have easily passed. For anyone taking this in the future, I would make sure to use google and make sure question one is right. This is because if you get question one right, the next modeling questions are straight forward. Also, just memorize the knowlege part of the exam, because it's just free points. 
 
 
 
